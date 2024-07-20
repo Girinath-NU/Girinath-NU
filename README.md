@@ -4,9 +4,6 @@
 
 <h1 align="center">Hi there, I'm Girinath NU 👋</h1>
 
-<p align="center">
-  <img src="https://your-profile-pic-link.com/profile-pic.jpg" alt="Profile Picture" width="150">
-</p>
 
 <h2 align="center">About Me</h2>
 <p align="center">🎓 I'm currently studying <strong>Btech in Electronics and Communication Engineering (ECE)</strong> at <strong>SASTRA UNIVERSITY Thanjavur</strong>.</p>
