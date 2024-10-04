@@ -6,9 +6,15 @@ Hey! I'm **Girinath NU**, a 2nd year **ECE sophomore** and an electronics enthus
 I'm currently working with **Arduino UNO**, **ESP32**, and **ESP8266** microcontrollers,  
 and exploring basic **Verilog** coding.
 
-## GitHub Streak
+## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=girinath_nu&theme=dark&hide_border=false&border-radius=8)](https://github.com/girinath_nu)
+### Current Streak & Longest Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Girinath-NU&theme=dark&hide_border=false&border-radius=8)](https://github.com/Girinath-NU)
+
+### Total Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Girinath-NU&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=8)
 
 ## Let's Connect!
 
