@@ -1,29 +1,18 @@
-<div align="center">
-  <img src="https://your-animation-link.com/circuit-animation.gif" alt="Electronics Animation" width="600">
-</div>
+# Hi there, I'm Girinath NU 👋
 
-<h1 align="center">Hi there, I'm Girinath NU 👋</h1>
+## About Me
 
+Hey! I'm **Girinath NU**, a 2nd year **ECE sophomore** and an electronics enthusiast.  
+I'm currently working with **Arduino UNO**, **ESP32**, and **ESP8266** microcontrollers,  
+and exploring basic **Verilog** coding.
 
-<h2 align="center">About Me</h2>
-<p align="center">🎓 I'm currently studying <strong>Btech in Electronics and Communication Engineering (ECE)</strong> at <strong>SASTRA UNIVERSITY Thanjavur</strong>.</p>
-<p align="center">💼 I'm passionate about working on <strong>electronics projects</strong> and love exploring new technologies and innovations in this field.</p>
+## GitHub Streak
 
-<h2 align="center">Skills & Interests</h2>
-<p align="center">📡 <strong>Electronics and Communication</strong></p>
-<p align="center">🔧 <strong>Project Development</strong></p>
-<p align="center">💻 <strong>Programming</strong></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=girinath_nu&theme=dark&hide_border=false&border-radius=8)](https://github.com/girinath_nu)
 
-<h2 align="center">Contact Me</h2>
-<p align="center">📧 Email: <a href="mailto:msg2girinath@gmail.com">msg2girinath@gmail.com</a></p>
-<p align="center">🐦 Instagram: <a href="https://www.instagram.com/girinath_nu?igsh=NDJyeGY0M3ZkYWJr">girinath_nu</a></p>
+## Let's Connect!
 
-<h2 align="center">Projects</h2>
-<p align="center">🚀 I love working on electronics-related projects and am always looking for new challenges. Check out my repositories to see some of my work!</p>
+Feel free to reach out for collaborations or to discuss cool electronics projects:
 
-<h2 align="center">Let's Connect!</h2>
-<p align="center">Feel free to reach out to me via email or GitHub. I'm always open to discussing new projects or collaboration opportunities.</p>
-
-<div align="center">
-  <img src="https://your-animation-link.com/electronics-footer.gif" alt="Electronics Footer Animation" width="600">
-</div>
+📧 Email: [msg2girinath@gmail.com](mailto:msg2girinath@gmail.com)  
+📸 Instagram: [girinath_nu](https://www.instagram.com/girinath_nu?igsh=NDJyeGY0M3ZkYWJr)
