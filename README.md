@@ -49,20 +49,76 @@ class RFEngineer:
     status = "🔴 LIVE — Transmitting projects at full power"
 ```
 
----
-
 ## RF Toolkit — Instruments & Software
 
 <div align="center">
 
-| Category | Tools |
-|:---|:---|
-| **Simulation & Design** | ADS · CST · SystemVue · EMPro · Altium · GNU Radio · Multisim |
-| **Lab Equipment** | Vector Network Analyser · DSO · Signal Analyser · Vector Signal Generator |
-| **SDR Platforms** | USRP (Software Defined Radio) · GNU Radio |
-| **PCB Fabrication** | Copper CAM · Altium Designer |
-| **Antenna Domains** | Patch · Meander Line · Meta Surface · Chip · Multilayer · Phased Array |
-| **Filter Concepts** | Kuroda's Identities · Richard's Transformations · Distributed Elements |
+<!-- Simulation -->
+<h3>Simulation & Design</h3>
+
+<img src="https://img.shields.io/badge/Keysight_ADS-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CST_Studio-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVue-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMPro-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNU_Radio-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multisim-1E88E5?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- SDR + PCB SIDE BY SIDE -->
+<table>
+<tr>
+
+<td align="center">
+
+<h3>Software Defined Radio</h3>
+
+<img src="https://img.shields.io/badge/USRP-00FF41?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/GNU_Radio-FF6600?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<h3>PCB Design & Fabrication</h3>
+
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Copper_CAM-00FF41?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- RF INSTRUMENTS WITH REAL IMAGES -->
+<h3>RF Laboratory Equipment</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Network_analyzer.jpg" width="120"/><br>
+<sub>Vector Network Analyzer</sub>
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Oscilloscope.jpg" width="120"/><br>
+<sub>Oscilloscope</sub>
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Spectrum_analyzer.jpg" width="120"/><br>
+<sub>Spectrum Analyzer</sub>
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Signal_generator.jpg" width="120"/><br>
+<sub>Signal Generator</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
