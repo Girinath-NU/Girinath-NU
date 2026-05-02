@@ -109,4 +109,8 @@ class RFEngineer:
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Girinath-NU/Girinath-NU/main/dist/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Girinath-NU/Girinath-NU/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
