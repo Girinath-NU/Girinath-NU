@@ -108,3 +108,5 @@ class RFEngineer:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Girinath-NU&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/Girinath-NU/Girinath-NU/main/dist/github-contribution-grid-snake-dark.svg)
