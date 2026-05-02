@@ -28,7 +28,7 @@
 
 ---
 
-## `[01]` About Me — Signal Profile
+## About Me — Signal Profile
 
 ```python
 class RFEngineer:
@@ -51,7 +51,7 @@ class RFEngineer:
 
 ---
 
-## `[02]` RF Toolkit — Instruments & Software
+## RF Toolkit — Instruments & Software
 
 <div align="center">
 
@@ -68,23 +68,18 @@ class RFEngineer:
 
 ---
 
-## `[06]` GitHub Stats — Spectrum Snapshot
+## GitHub Stats — Spectrum Snapshot
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Girinath-NU&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://github.com/Girinath-NU)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Girinath-NU&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girinath-NU&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41)
 
 </div>
 
 ---
 
----
-
-## `[08]` Connect — Open Channel
+## Connect — Open Channel
 
 <div align="center">
 
